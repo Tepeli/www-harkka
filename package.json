@@ -33,7 +33,7 @@
     "pug": "^2.0.0-beta11"
   },
   "devDependencies": {
-    "jsdom": "^13.0.0",
+    "jsdom": "^16.5.0",
     "nodemon": "^1.18.7",
     "vue-server-renderer": "^2.5.21"
   }
